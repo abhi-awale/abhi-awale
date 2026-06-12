@@ -58,6 +58,52 @@ I specialize in building scalable web applications, integrating third-party serv
 
 ## 📌 Featured Projects
 
+### 🏭 MIC India Product Catalog Platform
+
+Modern Product Catalog & Digital Presence Solution
+
+**Features**
+
+* Category-Based Product Navigation
+* Detailed Product Pages
+* Technical Specifications Section
+* Downloadable Datasheets & Certifications
+* Responsive Design for Mobile, Tablet & Desktop
+* Scalable Component-Based Architecture
+* Product Discovery & Navigation Optimization
+* Reusable React Components
+
+**Key Contributions**
+
+* Designed complete UI/UX for product catalog workflows
+* Developed responsive product listing and detail pages
+* Implemented category filtering and navigation structure
+* Created reusable React components for scalability
+* Built technical specification and document download sections
+* Optimized layouts for desktop, tablet, and mobile devices
+
+**Technologies**
+
+* React.js
+* JavaScript
+* React Router
+* Tailwind CSS
+* Responsive Web Design
+
+**Project Highlights**
+
+* Demonstrates how industrial and electronics manufacturers can improve their digital presence through a modern web platform
+* Focused on product discovery, technical documentation access, and user experience
+* Designed with future scalability for product management systems, inquiry workflows, search functionality, and e-commerce integrations
+
+**Note**
+This is a demonstration project created to showcase a potential digital solution for MIC India and is not an official company project.
+
+🔗 Live Demo:
+https://mic-demo-azure.vercel.app/
+
+---
+
 ### 💰 ExpensePilot
 Expense Tracking & Financial Management System
 
